@@ -1,0 +1,7 @@
+{
+  "name": "ReceiptOID",
+  "description": "A comprehensive AI-powered receipt management system that scans, parses, and organizes your expenses using Google Gemini 2.5 Flash.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
